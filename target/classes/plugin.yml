@@ -1,0 +1,13 @@
+name: test01
+version: '1.0-SNAPSHOT'
+main: localhost.test.test01.Test01
+api-version: 1.19
+author: Aliancn
+
+commands:
+  colorfulchat:
+    description: "彩色聊天"
+    usage: "/colorfulchat 可以开关彩色聊天"
+    permission: "colorfulchat.use"
+    permission-message: "§c没有权限执行"
+
