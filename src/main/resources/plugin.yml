@@ -1,0 +1,4 @@
+name: ColorfulChat
+version: '${project.version}'
+main: chengningyly.colorfulchat.ColorfulChat
+api-version: 1.19
